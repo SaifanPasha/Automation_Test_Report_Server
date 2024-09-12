@@ -1,7 +1,5 @@
 # Automation_Test_Report_Server
 
-# Automation Test Report Server
-
 FastAPI server for managing automation test reports and metadata.
 
 ## Running the FastAPI Server
